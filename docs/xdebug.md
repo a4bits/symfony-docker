@@ -91,3 +91,6 @@ $ docker-compose exec php php --version
 PHP ...
     with Xdebug v3.0.4 ...
 ```
+
+**Linux installations**
+Connection seems not to work? You may try to check your firewall and allow port 9003
